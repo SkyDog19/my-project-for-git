@@ -25,3 +25,4 @@ personalMovieDB.movies[questionLastFilmTwo] = questionFilmScoreTwo;
 
 console.log(personalMovieDB);
 console.log('Создаем коммит');
+console.log('Кракен')
