@@ -24,3 +24,4 @@ personalMovieDB.movies[questionLastFilm] = questionFilmScore;
 personalMovieDB.movies[questionLastFilmTwo] = questionFilmScoreTwo;
 
 console.log(personalMovieDB);
+console.log('Создаем коммит');
